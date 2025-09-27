@@ -14,8 +14,8 @@ Each bus updates its position and crowd level every few seconds **without any ba
 ---
 
 ## 🌐 Live Demo
-👉 [**Click here to view the map**](https://yourusername.github.io/villupuram-bus-prototype/)  
-*(Replace the link above with your actual GitHub Pages / Netlify / Vercel URL once deployed.)*
+👉 [**Click here to view the map**]  https://bhuvana2521.github.io/villupuram-bustrack-map/
+
 
 ---
 
